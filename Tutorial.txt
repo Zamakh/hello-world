@@ -1,0 +1,1 @@
+vi to open file and write on it
